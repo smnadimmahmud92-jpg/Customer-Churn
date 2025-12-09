@@ -1,4 +1,4 @@
-# 📉 Customer Churn Prediction using Machine Learning
+# Customer Churn Prediction using Machine Learning
 
 An end-to-end **supervised machine learning project** that predicts whether a customer is likely to **churn (leave a company)** based on behavioral, demographic, and service usage features. This project demonstrates real-world **binary classification**, feature engineering, model comparison, and business-focused interpretation.
 
@@ -92,5 +92,4 @@ Used for:
 
 ---
 
-## 🧮 Example Prediction Output
 
