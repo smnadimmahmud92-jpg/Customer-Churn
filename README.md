@@ -26,9 +26,6 @@ Customer churn is one of the biggest challenges for subscription-based businesse
   - Payment method
   - Tenure
 
->  Dataset is **not uploaded to GitHub** for privacy and size reasons.  
-> You can use a public version from Kaggle such as:
-
 🔗 https://www.kaggle.com/blastchar/telco-customer-churn
 
 ---
